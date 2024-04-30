@@ -3,7 +3,7 @@ tablecheck
 
 WIP
 
-Author: FPtje Falco
+Author: (FPtje) Falco
 
 Purpose:
 Allow validating tables by creating schemas of tables. Inspired by Joi (https://github.com/hapijs/joi)

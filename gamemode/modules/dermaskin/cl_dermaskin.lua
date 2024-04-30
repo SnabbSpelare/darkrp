@@ -2,7 +2,7 @@
 SKIN = {}
 
 SKIN.PrintName          = "DarkRP"
-SKIN.Author             = "FPtje Falco"
+SKIN.Author             = "(FPtje) Falco"
 SKIN.DermaVersion       = 1
 SKIN.GwenTexture        = Material("darkrp/darkrpderma.png")
 

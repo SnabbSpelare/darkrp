@@ -7,11 +7,11 @@
     "menusystem"    "1"
     "workshopid"    "248302805"
 
-    "author_name"   "FPtje Falco et al."
+    "author_name"   "(FPtje) Falc"
     "author_email"  ""
     "author_url"    "https://github.com/FPtje/DarkRP"
 
-    "icon"  ""
-    "info"  ""
-    "hide"  "0"
+    "icon"          ""
+    "info"          ""
+    "hide"          "0"
 }
