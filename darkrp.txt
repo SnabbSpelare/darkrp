@@ -8,10 +8,7 @@
     "workshopid"    "248302805"
 
     "author_name"   "(FPtje) Falc"
-    "author_email"  ""
-    "author_url"    "https://github.com/FPtje/DarkRP"
+    "author_url"    "https://github.com/SnabbSpelare/darkrp"
 
-    "icon"          ""
-    "info"          ""
     "hide"          "0"
 }
